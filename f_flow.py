@@ -20,7 +20,7 @@ V1      = 80
 M1 = V1 * a1
 
 # Downstream Temperature
-T2 = np.arange(300,600,5)
+T2 = np.arange(200,600,5)
 N = len(T2)
 
 # Properties
