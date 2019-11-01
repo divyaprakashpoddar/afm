@@ -41,7 +41,7 @@ for ar in Ratios:
 
         ax1.scatter(ar, Q, color = 'k')
         ax2.scatter(ar, Pw, color = 'b')
-        #ax3.scatter(ar, Rh, color = 'c')         
+        ax3.scatter(ar, Rh, color = 'c')         
 
 
 fig.tight_layout()
