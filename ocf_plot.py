@@ -11,7 +11,7 @@ A       = 1                             # Cross-Sectional Area
 n       = 0.012                         # Roughness Coefficient
 
 # Aspect ratios
-Ratios = np.linspace(0.1,1.5,50)          # ar = y / b
+Ratios = np.linspace(0.1,1.5,50)        # ar = y / b
 
 # Plots Setup
 fig1, ax1 = plt.subplots()
