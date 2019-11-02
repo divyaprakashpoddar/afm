@@ -44,7 +44,6 @@ for ar in Ratios:
         ax3.scatter(ar, Rh, color = 'c')         
 
 
-fig.tight_layout()
 plt.show()
 
 
